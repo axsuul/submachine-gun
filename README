@@ -1,0 +1,1 @@
+This is a utility that fetches Chinese subtitles for English movies from shooter.cn, the largest Chinese subtitle repository on the Internet. This makes use of wxPython for the UX.
